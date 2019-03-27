@@ -5,7 +5,18 @@ Créer un Mini-CRM (Customer Relation Management) afin de gérer vos relation av
 ___
 ### Exercices
 
-##### Étape 1
+**Avant toute chose**
+
+**Forker le repo github sur votre profil et puis cloner celui-ci**
+
+Vérifier avec votre terminal si nodejs & npm sont bien installer. dans votre terminal :
+
+   - node --version
+   - npm --version
+
+Et pour finir faire un `npm install` et `npm start` et rendez-vous sur l'adresse `http://localhost:9000`
+
+#### Étape 1
 
 Créer les classes et les interfaces pour chacune d'entre elle (un fichier par classe et par interface):
 - Company :
